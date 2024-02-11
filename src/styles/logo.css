@@ -1,0 +1,7 @@
+.flag {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 100px; /* Adjust to the width of your logo */
+    max-height: 100px; /* Adjust to the height of your logo */
+  }

@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px; /* Adjust the padding as needed */
+  }
+  
+  .logo {
+    max-width: 100px; /* Adjust to the width of your logo */
+    max-height: 100px; /* Adjust to the height of your logo */
+  }
+  
